@@ -7,3 +7,5 @@
 <li>See products</li>
 <li>Add products in Cart</li>
 <li>Make payment</li>
+<br>
+<img src="https://user-images.githubusercontent.com/102805884/182702402-53732ec6-8606-4ce6-8bbf-ead16fca4a3f.png" />
